@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/bin/Debug/net6.0/Seminar4.1
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/bin/Debug/net6.0/Seminar4.1.deps.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/bin/Debug/net6.0/Seminar4.1.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/bin/Debug/net6.0/Seminar4.1.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/bin/Debug/net6.0/Seminar4.1.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/refint/Seminar4.1.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/Seminar4.1.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar4/Seminar4.1/obj/Debug/net6.0/ref/Seminar4.1.dll
